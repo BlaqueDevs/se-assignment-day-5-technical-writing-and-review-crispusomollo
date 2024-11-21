@@ -14,6 +14,16 @@ For non-technical audiences, use plain language and avoid technical jargon. Star
 
 ## 2. What are some strategies to tailor your content to different audience types?
 
+a. Determine whether your audience is technical, semi-technical, or non-technical.
+b. Adjust language and tone to match with the audience.
+c. Tailor the *depth* of the content
+d. Use appropriate visual aids e.g screenshots, infographics, code snippets etc
+e. Structure your content for easy navigation by use of clear headings, bullets and formatting.
+f. Incorporate examples and scenarios.
+g. Always end with clear instructions or next steps.
+
+---
+
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
