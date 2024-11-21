@@ -26,6 +26,16 @@ g. Always end with clear instructions or next steps.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
+a. Surveys and Questionnaires
+b. Interviews or Focus Groups
+c. Engage during presentation by asking questions that will help gauge the audience comprehension.
+d. Review questions, feedback, or support tickets from the audience to identify common gaps in understanding.
+e. Check metrics like time spent on pages or sections frequently revisited to gauge their interest.
+f. Including a short quiz or knowledge check at the beginning of the document or session.
+g. Begin with a summary of the topic and progressively dive into details based on audience response.
+
+---
+
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
