@@ -38,6 +38,8 @@ g. Begin with a summary of the topic and progressively dive into details based o
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
+- Use plain language. Replace technical jargon with simple, everyday words.
+- 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
