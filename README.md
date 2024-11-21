@@ -118,8 +118,9 @@ Using examples and visuals can significantly improve the clarity of complex conc
 
 ## 10. What are some best practices for creating effective headings and subheadings?
 
-- Limit Levels: Avoid too many nested subheadings to prevent confusion.
-- Include Keywords: Use relevant keywords in headings to enhance searchability and SEO for digital documents.
+- Write for the audience. Use a language they can easily understand.
+- Avoid too many nested subheadings to prevent confusion and ambiguity.
+- Use relevant keywords in headings to enhance searchability and SEO for digital documents.
 - Maintain Consistency: Follow a consistent style and hierarchy (e.g., bold for headings, italic for subheadings).
 - Use Descriptive Titles: Ensure headings describe the content of the section clearly (e.g., Optimizing Performance is better than Optimization).
 
