@@ -4,7 +4,7 @@
 
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
-Understanding your audience's expertise level is crucial in shaping how you present technical information because it determines what content to include, how to organize it, and the language and tone to use. By tailoring your content to the audience's expertise level, you ensure engagement, clarity, and effectiveness, which are the cornerstones of good technical writing.
+Understanding your audience's expertise level is crucial in shaping how you present technical information because it determines *what content to include*, *how to organize it*, and the *language and tone* to use. By tailoring your content to the audience's expertise level, you ensure *engagement*, *clarity*, and *effectiveness*, which are the cornerstones of good technical writing.
 
 Tech-savvy audiences, who have prior knowledge of the topic, you can dive straight into technical details without over-explaining basic concepts. You can also use charts, diagrams, and code snippets to highlight complex relationships.
 
@@ -14,13 +14,13 @@ For non-technical audiences, use plain language and avoid technical jargon. Star
 
 ## 2. What are some strategies to tailor your content to different audience types?
 
-- Determine whether your audience is technical, semi-technical, or non-technical.
-- Adjust language and tone to match with the audience.
-- Tailor the *depth* of the content
-- Use appropriate visual aids such as screenshots, infographics, code snippets etc
-- Structure your content for easy navigation by use of clear headings, bullets and formatting.
 - Incorporate examples and scenarios.
+- Tailor the *depth* of the contents.
 - Always end with clear instructions or next steps.
+- Adjust language and tone to match with the audience.
+- Determine whether your audience is technical, semi-technical, or non-technical.
+- Use appropriate visual aids such as screenshots, infographics, code snippets etc.
+- Structure your content for easy navigation by use of clear headings, bullets and formatting.
 
 ---
 
@@ -28,18 +28,21 @@ For non-technical audiences, use plain language and avoid technical jargon. Star
 
 - Surveys and Questionnaires
 - Interviews or Focus Groups
-- Engage during presentation by asking questions that will help gauge the audience comprehension.
-- Review questions, feedback, or support tickets from the audience to identify common gaps in understanding.
-- Check metrics like time spent on pages or sections frequently revisited to gauge their interest.
 - Including a short quiz or knowledge check at the beginning of the document or session.
+- Engage during presentation by asking questions that will help gauge the audience comprehension.
+- Check metrics like time spent on pages or sections frequently revisited to gauge their interest.
 - Begin with a summary of the topic and progressively dive into details based on audience response.
+- Review questions, feedback, or support tickets from the audience to identify common gaps in understanding.
 
 ---
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
 - Use plain language. Replace technical jargon with simple, everyday words.
-- 
+-  
+
+---
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
