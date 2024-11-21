@@ -124,6 +124,15 @@ Using examples and visuals can significantly improve the clarity of complex conc
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 
+- Diagrams: Best for processes, workflows, systems, and concepts that have multiple components.
+- Infographics: Best for simplifying complex information and making it visually appealing.
+- Tables: Best for displaying detailed data, specifications, and multiple attributes.
+- Charts and Graphs: Best for displaying quantitative data, comparisons, and trends.
+- Wireframes and mockups: Best for visualizing user interfaces and layouts.
+- Process flows: Best for visualizing the steps in code or algorithms.
+
+---
+
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
 
 ## 10. What are some best practices for creating effective headings and subheadings?
