@@ -14,25 +14,25 @@ For non-technical audiences, use plain language and avoid technical jargon. Star
 
 ## 2. What are some strategies to tailor your content to different audience types?
 
-a. Determine whether your audience is technical, semi-technical, or non-technical.
-b. Adjust language and tone to match with the audience.
-c. Tailor the *depth* of the content
-d. Use appropriate visual aids e.g screenshots, infographics, code snippets etc
-e. Structure your content for easy navigation by use of clear headings, bullets and formatting.
-f. Incorporate examples and scenarios.
-g. Always end with clear instructions or next steps.
+- Determine whether your audience is technical, semi-technical, or non-technical.
+- Adjust language and tone to match with the audience.
+- Tailor the *depth* of the content
+- Use appropriate visual aids such as screenshots, infographics, code snippets etc
+- Structure your content for easy navigation by use of clear headings, bullets and formatting.
+- Incorporate examples and scenarios.
+- Always end with clear instructions or next steps.
 
 ---
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
-a. Surveys and Questionnaires
-b. Interviews or Focus Groups
-c. Engage during presentation by asking questions that will help gauge the audience comprehension.
-d. Review questions, feedback, or support tickets from the audience to identify common gaps in understanding.
-e. Check metrics like time spent on pages or sections frequently revisited to gauge their interest.
-f. Including a short quiz or knowledge check at the beginning of the document or session.
-g. Begin with a summary of the topic and progressively dive into details based on audience response.
+- Surveys and Questionnaires
+- Interviews or Focus Groups
+- Engage during presentation by asking questions that will help gauge the audience comprehension.
+- Review questions, feedback, or support tickets from the audience to identify common gaps in understanding.
+- Check metrics like time spent on pages or sections frequently revisited to gauge their interest.
+- Including a short quiz or knowledge check at the beginning of the document or session.
+- Begin with a summary of the topic and progressively dive into details based on audience response.
 
 ---
 
