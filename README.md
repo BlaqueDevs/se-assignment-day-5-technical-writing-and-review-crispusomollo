@@ -167,3 +167,9 @@ Using examples and visuals can significantly improve the clarity of complex conc
 ---
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+- Highlight the core problem it solves
+- Emphasize key features in bullet points
+- Use Plain Language: Avoid technical jargon unless it’s necessary for your audience.
+- Use an elevator pitch format: Start with a one-sentence summary that captures the product's essence.
+- End with a Call to Action (Optional): Direct users to try, explore, or learn more about the product.
