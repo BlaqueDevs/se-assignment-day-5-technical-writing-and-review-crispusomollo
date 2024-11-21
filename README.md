@@ -39,7 +39,13 @@ For non-technical audiences, use plain language and avoid technical jargon. Star
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 
 - Use plain language. Replace technical jargon with simple, everyday words.
--  
+- Provide step-by-step instructions and use analogies and examples.
+- Add an FAQ section to answer common questions in simple terms.
+- Highlight key takeaways to emphasize the most critical information.
+- Add screenshots, diagrams, or illustrations to explain complex processes.
+- Create a glossary of technical terms or acronyms at the end of your document.
+- If technical terms are unavoidable, provide clear definitions or explanations.
+- Break content into manageable chunks. Group related information under clear headings.
 
 ---
 
